@@ -15,4 +15,5 @@
   <project path="flyme/release" name="FlymeOS/flyme-release"/>
   <project path="flyme/overlay" name="FlymeOS/flyme-overlay" />
   <project path="devices/base" name="FlymeOS/devices-base" />
+  <project path="devices/a106" name="GODz-Android-Dev/Flyme_devices_a106" />
 </manifest>
